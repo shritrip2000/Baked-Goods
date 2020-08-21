@@ -1,4 +1,17 @@
 #Introduction{
   border-style: dotted;
-  font-size: 25px; 
+  border-color: aqua;
+  text-align: center;
+  font-size: 25px;
+}
+#Recipes{
+border-style: dotted;
+border-color: aqua;
+text-align: center;
+font-size: 20px;
+}
+#FoodsEnd{
+  border-style: dotted;
+  border-color: aqua;
+  font-size: 17px
 }
