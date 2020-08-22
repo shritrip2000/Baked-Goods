@@ -1,17 +1,31 @@
 #Introduction{
-  border-style: dotted;
-  border-color: aqua;
+  border-style: solid;
+  border-color: red;
   text-align: center;
-  font-size: 25px;
+  font-size: 27px;
+  font-family: courier;
 }
 #Recipes{
-border-style: dotted;
-border-color: aqua;
-text-align: center;
+border-style: solid;
+border-color: orange;
 font-size: 20px;
+font-family: courier
 }
-#FoodsEnd{
-  border-style: dotted;
-  border-color: aqua;
-  font-size: 17px
+#ChocolateCake{
+border-style: solid;
+border-color: yellow;
+font-size: 20px;
+font-family: courier;
+}
+#CarrotCake{
+border-style: solid;
+border-color: green;
+font-size: 20px;
+font-family: courier;
+}
+#VanillaCake{
+  border-style: solid;
+  border-color: blue;
+  font-size: 20px;
+  font-family: courier;
 }
